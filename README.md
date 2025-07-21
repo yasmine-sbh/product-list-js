@@ -24,9 +24,13 @@ Ce projet est une petite application web permettant d'ajouter et d'afficher des 
 
 ## Utilisation
 
-1. Cloner le dépôt ou télécharger le code ( Télécharger le projet complet, mais version développeur):
+1. Voir l'avancement du projet sur: 
 
-   git clone https://github.com/boubakerjouini/stage2025
+   https://github.com/boubakerjouini/stage2025
+
+2. Cloner le dépôt ou télécharger le code ( Télécharger le projet complet, mais version développeur):
+
+git clone https://github.com/yasmine-sbh/product-list-js
 
 
 crud-produit-simple:
@@ -34,3 +38,13 @@ crud-produit-simple:
 ├── index.html        # Page principale
 ├── style.css         # Style de l'interface
 └── script.js         # Logique JavaScript (CRUD + localStorage)
+
+3. Lien vers demo en ligne
+
+https://yasmine-sbh.github.io/product-list-js/
+
+4. Un apperçu capture d'écran
+
+## Aperçu de l'application
+
+![Capture d’écran](./images/capture-product-crud-js.PNG)
