@@ -1,6 +1,6 @@
 Gestionnaire de produits: crud simple:
 
-Ce projet est une petite application web permettant d'ajouter et d'afficher des produits, avec sauvegarde locale grâce à `localStorage`. Il s'agit d'un exemple basique de CRUD (Create, Read) en HTML, CSS et JavaScript.
+Ce projet est une petite application web permettant d'ajouter et d'afficher des produits, avec sauvegarde locale grâce à `localStorage`. Il s'agit d'un exemple basique de CRUD (Create, Read) en HTML, CSS et JavaScript. 
 
 ---
 
@@ -50,3 +50,7 @@ https://yasmine-sbh.github.io/product-list-js/
 ## Aperçu de l'application
 
 ![Capture d’écran](./images/capture-product-crud-js.PNG)
+
+5. Tout est enregistré dans la branche suivante avec un push dans crud-product:
+
+git push origin crud-product 
