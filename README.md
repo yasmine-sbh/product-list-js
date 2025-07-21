@@ -10,6 +10,8 @@ Ce projet est une petite application web permettant d'ajouter et d'afficher des 
 - Afficher les produits sous forme de liste
 - Sauvegarde automatique dans `localStorage`
 - Interface simple et responsive
+- Avec la fonctionalité de suppression avec actualisation automatique 
+- Et enfin la recherche 
 
 ---
 
