@@ -62,6 +62,7 @@ ul {
   transition: transform 0.1s ease;
 }*/
 
+/* Pour mieux organiser la liste avec le bouton supprimer a droite*/
 li {
   display: flex;
   justify-content: space-between;
@@ -91,3 +92,30 @@ li button {
 li button:hover {
   background-color: #c0392b;
 }
+
+.bloc-produit {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.bloc-produit h2 {
+  margin: 0;
+  font-size: 16px;
+}
+
+/*
+si je veux que les deux champs de texte soient de meme taille
+input[type="text"] {
+  width: 100%;
+  max-width: 300px; /*Tu peux ajuster cette valeur 
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+*/
